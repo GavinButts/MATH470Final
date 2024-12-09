@@ -19,7 +19,7 @@ In this repository, we seek to determine whether full finetuning or LoRA results
 *accuracy*: 0.8815  
 *precision*: 0.8814  
 *recall*: 0.8815  
-*f1: 0.8814 
+*f1*: 0.8814 
 
 
 ## Running the code  
