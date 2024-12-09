@@ -28,3 +28,6 @@ To run the training blocks, no prior installations are required. Simply run the 
 The model parameters and config files can be found here: <https://drive.google.com/drive/folders/1r2k3OW8JLhuOAF7_OZ_jnkGtdpubsNJ3?usp=share_link>
 
 The dataset and documentation can be found here: <https://nlp.stanford.edu/projects/snli/>
+
+The Google Slides version of the presentation can be found here: <https://docs.google.com/presentation/d/1691tKb8vVmjO9lOeFGLFI6Mi3vwkcSS9BsCCDhB7ZZc/edit?usp=sharing>
+
